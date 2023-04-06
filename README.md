@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## SS
 
-![Screenshot_1680788135](https://user-images.githubusercontent.com/29359748/230394571-492933db-6cb2-4ed7-b036-858649d55027.png)
+<img width="342"  src="https://user-images.githubusercontent.com/29359748/230394571-492933db-6cb2-4ed7-b036-858649d55027.png">
 
 <img width="342"  src="https://user-images.githubusercontent.com/29359748/230394590-fecdbf90-2ec5-4aaa-85ab-062d2cb4cf4b.png">
