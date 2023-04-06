@@ -16,6 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+## The packages used;
+- Provider - State Management
+- Radio Player - Radio Stream, play, stop etc
+
 
 ## SS
 
